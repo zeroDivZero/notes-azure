@@ -4,7 +4,7 @@ Defines deployment type of cloud resources. 3 main models: private, public, and 
 
 ## Private
 
-Evolution of data center, cloud (IT services over Internet) used by single entity. Greater control at greater cost. Can be hosted at onsite or offsite data center.
+Evolution of datacenter, cloud (IT services over Internet) used by single entity. Greater control at greater cost. Can be hosted at onsite or offsite datacenter.
 
 ## Public
 
