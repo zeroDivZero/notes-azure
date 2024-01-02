@@ -1,5 +1,7 @@
 # CONSUMPTION-BASED MODEL
 
+To use only computing resources required at particular time.
+
 Two expense types pertaining to IT infrastructure models: **capital expenditure (CapEx)** and **operational expenditure (OpEx)**.
 
 ## CapEx
