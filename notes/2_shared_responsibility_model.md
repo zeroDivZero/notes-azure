@@ -20,7 +20,7 @@ Consumer always responsible for:
 
 Provider always responsible for:
 
-* Physical datacenter
+* Physical data center
 * Physical network
 * Physical hosts
 
