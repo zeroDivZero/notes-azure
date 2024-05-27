@@ -1,10 +1,8 @@
 # SHARED RESPONSIBILITY MODEL
 
-With traditional datacenter, business responsible for maintaining physical space, security, and hardware. Plus software, patching and updating systems.
+With traditional data center, user responsible for maintaining physical space, security, and hardware. Plus software, patching and updating systems.
 
-With cloud, responsibilities shared between provider and consumer. Physical security, power, cooling, and network connectivity are responsibilities of cloud provider.
-
-Consumer responsible for data stored; provider not able to read info. Also responsible for access security.
+With cloud, responsibilities shared between provider and consumer. Provider: physical security, power, cooling, and network connectivity. Consumer: data stored (not visible to provider) and access security.
 
 Other responsibilities depend on situation. E.g., with cloud database, provider responsible for maintaining actual database, consumer responsible for ingested data. But if deploying virtual machine with database, consumer responsible for both database and data.
 
